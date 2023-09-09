@@ -1,2 +1,2 @@
-# module3-assignment
+# Module3-Assignment
 Restaurant-clonesite
