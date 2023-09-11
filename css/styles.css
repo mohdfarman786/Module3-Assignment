@@ -1,7 +1,7 @@
 body {
   font-size: 16px;
   color: #fff;
-  background-color: #61122f;
+  background-color: #49111c;
   font-family: 'Oxygen', sans-serif;
 }
 
@@ -50,7 +50,7 @@ body {
   margin-top: 10px;
 }
 #nav-list a {
-  color: #951C49;
+  color: #49111c;
   text-align: center;
 }
 #nav-list a:hover {
@@ -74,7 +74,7 @@ body {
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 1px solid #61122f;
+  border: 1px solid #49111c;
 }
 .navbar-header button.navbar-toggle {
   clear: both;
@@ -116,8 +116,8 @@ body {
 
 /* HOME PAGE */
 .container .jumbotron {
-  box-shadow: 0 0 50px #3F0C1F;
-  border: 2px solid #3F0C1F;
+  box-shadow: 0 0 50px #49111c;
+  border: 2px solid #49111c;
 }
 
 #menu-tile, #specials-tile, #map-tile {
@@ -125,7 +125,7 @@ body {
   width: 100%;
   margin-bottom: 15px;
   position: relative;
-  border: 2px solid #3F0C1F;
+  border: 2px solid #49111c;
   overflow: hidden;
 }
 #menu-tile:hover, #specials-tile:hover, #map-tile:hover {
@@ -156,7 +156,7 @@ body {
 /* MENU CATEGORIES PAGE */
 .category-tile { 
   position: relative;
-  border: 2px solid #3F0C1F;
+  border: 2px solid #49111c;
   overflow: hidden;
   width: 200px;
   height: 200px;
@@ -201,7 +201,7 @@ body {
 }
 .menu-item-photo {
   position: relative;
-  border: 2px solid #3f0c1f;
+  border: 2px solid #49111c;
   overflow: hidden;
   padding: 0;
   margin-right: -15px;
@@ -303,7 +303,7 @@ h3.menu-item-title {
     padding: 10px;
     border: 2px solid #fff;
     background-color: #f6b319;
-    color: #951c49;
+    color: #49111c;
   }
   #xs-deliver {
     margin-top: 5px;
